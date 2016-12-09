@@ -1,0 +1,10 @@
+C:\Users\sriram.nalla\Documents\Visual Studio 2013\Projects\EDIParser\EDI Entites\bin\Debug\EDI Entites.dll
+C:\Users\sriram.nalla\Documents\Visual Studio 2013\Projects\EDIParser\EDI Entites\bin\Debug\EDI Entites.pdb
+C:\Users\sriram.nalla\Documents\Visual Studio 2013\Projects\EDIParser\EDI Entites\obj\Debug\EDI Entites.dll
+C:\Users\sriram.nalla\Documents\Visual Studio 2013\Projects\EDIParser\EDI Entites\obj\Debug\EDI Entites.pdb
+C:\Users\sriram.nalla\Documents\Visual Studio 2013\Projects\EDIParser\EDI Entites\obj\Debug\EDI Entites.csprojResolveAssemblyReference.cache
+D:\Projects\VS\EDIParser\EDIParser\EDI Entites\bin\Debug\EDI Entites.dll
+D:\Projects\VS\EDIParser\EDIParser\EDI Entites\bin\Debug\EDI Entites.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDI Entites\obj\Debug\EDI Entites.dll
+D:\Projects\VS\EDIParser\EDIParser\EDI Entites\obj\Debug\EDI Entites.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDI Entites\obj\Debug\EDI Entites.csprojResolveAssemblyReference.cache

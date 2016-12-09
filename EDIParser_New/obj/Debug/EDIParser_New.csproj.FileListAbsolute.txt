@@ -1,0 +1,12 @@
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDIParser_New.exe.config
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDIParser_New.exe
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDIParser_New.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDI Entites.dll
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDIFileParser.dll
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDITranslation.dll
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDI Entites.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDIFileParser.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\bin\Debug\EDITranslation.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\obj\Debug\EDIParser_New.exe
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\obj\Debug\EDIParser_New.pdb
+D:\Projects\VS\EDIParser\EDIParser\EDIParser_New\obj\Debug\EDIParser_New.csprojResolveAssemblyReference.cache
